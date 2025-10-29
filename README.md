@@ -80,7 +80,7 @@ human_follower_robot/
 │   ├── yolov4.cfg
 │   ├── yolov4.weights
 │   └── coco.names
-├── follower.py
+├── Camera.py
 └── README.md
 ```
 
