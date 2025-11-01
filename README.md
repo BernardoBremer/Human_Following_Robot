@@ -149,7 +149,6 @@ Ensure it appears as `/dev/video0` for `cv2.VideoCapture(0)`.
 ## 10) Notes
 
 * Power on the Kobuki base before launching ROS nodes.
-* Confirm ROS network settings if running multiple computers.
 * Manually test velocity topics before starting the full follower script.
 
 ---
